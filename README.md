@@ -1,7 +1,4 @@
-<!-- 방문자 수 -->
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
+
 
 <div align="center">
 
@@ -27,9 +24,7 @@
   <img width="700" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=7" />
 </a>
 
-<!-- 셋째 줄: Snake -->
-<br/><br/>
-<img src="https://github.com/NullisnotFalse/NullisnotFalse/blob/output/github-contribution-grid-snake-dark.svg" />
+
 
 </div>
 
@@ -56,3 +51,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
+
+<!-- 셋째 줄: Snake -->
+<br/><br/>
+<img src="https://github.com/NullisnotFalse/NullisnotFalse/blob/output/github-contribution-grid-snake-dark.svg" />
