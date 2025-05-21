@@ -59,10 +59,13 @@
 
 <br>
 
-# 📭 Contact
+# 💿 Blog
 <a href="https://velog.io/@halo_3735/posts">
   <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
+
+# 📭 Contact
+
 <a href="mailto:kanmar90@gmail.com">
   <img src="https://img.shields.io/badge/kanmar90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
