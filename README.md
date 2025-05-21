@@ -64,8 +64,9 @@
   <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 <a href="mailto:dongjin778@naver.com">
-  <img src="https://img.shields.io/badge/Email-dongjin778@naver.com-green?&style=for-the-badge&logo=mail.ru&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver-dongjin778@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </a>
+
 
 
 
