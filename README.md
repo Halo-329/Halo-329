@@ -19,7 +19,7 @@
 </span>
 
 <!-- 둘째 줄: Trophy -->
-<br/><br/>
+<br>
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="700" src="https://github-profile-trophy.vercel.app/?username=halo-329&theme=onedark&row=1&column=7" />
 </a>-->
