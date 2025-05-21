@@ -26,7 +26,7 @@
 </div>
 
 </div>
-
+<br>
 
 ## 💪 Skills
 
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+<br>
 
 # 📭 Contact
 <a href="https://velog.io/@halo_3735/posts">
