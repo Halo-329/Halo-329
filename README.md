@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Won Hyeon Seop
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Wonseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- 프로필 정보 그리드 정렬 -->
 <div align="center">
