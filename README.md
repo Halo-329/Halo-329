@@ -9,11 +9,11 @@
 <span>
   <a href="https://github.com/jogilsang/jogilsang">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789)](https://solved.ac/nan7789/)
-    
-
-  
-  
+  </a>
+  &nbsp;
+  <a href="https://solved.ac/nan7789/">
+    <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789" />
+  </a>
 </span>
 
 <!-- 둘째 줄: Trophy -->
