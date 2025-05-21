@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/AJAX-0054A6.svg?&style=for-the-badge&logo=ajax&logoColor=white"/>
+<img src="https://img.shields.io/badge/W&B-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 </p>
 
 ### Tools
