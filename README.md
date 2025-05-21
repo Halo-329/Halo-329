@@ -11,7 +11,7 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark" />
   </a>
   &nbsp;
-  <a href="https://solved.ac/profile/nan7789">
+  <a href="https://solved.ac/nan7789">
   <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789" />
   </a>
 
