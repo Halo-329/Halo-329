@@ -56,7 +56,7 @@
 </p>
 
 
-### Contact
+# 📭 Contact
 <a href="https://velog.io/@halo_3735/posts">
   <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
