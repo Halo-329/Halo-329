@@ -59,6 +59,13 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
+### Contact
+<p>
+  [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@halo_3735/posts)
+</p>
+
+
+
 <!-- 셋째 줄: Snake -->
 <br/><br/>
 <img src="https://github.com/NullisnotFalse/NullisnotFalse/blob/output/github-contribution-grid-snake-dark.svg" />
