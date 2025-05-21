@@ -9,7 +9,7 @@
 <!-- 첫 줄: Top Langs + Solved.ac -->
 <span>
   <a href="https://github.com/jogilsang/jogilsang">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halo-329&langs_count=10&layout=compact&theme=dark" />
   </a>
   &nbsp;
   <a href="https://solved.ac/nan7789">
