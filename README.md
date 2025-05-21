@@ -66,7 +66,7 @@
 
 <br>
 
-###📭 Contact
+### 📭 Contact
 
 <a href="mailto:kanmar90@gmail.com">
   <img src="https://img.shields.io/badge/kanmar90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
