@@ -71,6 +71,12 @@
 <a href="https://velog.io/@halo_3735/posts">
   <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
+    
+&nbsp;
+
+<a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br>
 <br>
