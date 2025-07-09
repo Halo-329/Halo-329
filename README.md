@@ -1,8 +1,6 @@
 # 🧑🏻‍💻 Won Hyeon Seop
 <div align="center">
 
-
-
 <!-- 프로필 정보 그리드 정렬 -->
 <div align="center">
 
@@ -13,18 +11,9 @@
   </a>
   &nbsp;
   <a href="https://solved.ac/nan7789">
-  <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789" />
+    <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789" />
   </a>
-
 </span>
-
-<!-- 둘째 줄: Trophy -->
-<br>
-<!--<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="700" src="https://github-profile-trophy.vercel.app/?username=halo-329&theme=onedark&row=1&column=7" />
-</a>-->
-
-
 
 </div>
 
@@ -42,18 +31,13 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-0054A6.svg?&style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-
-
+  <img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
 
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
-
-
 </p>
 
 <br>
@@ -62,11 +46,10 @@
 <a href="https://velog.io/@halo_3735/posts">
   <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
-    
+<a href="https://halo-server.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+</a>
 
-
-
-<br>
 <br>
 <br>
 
@@ -78,12 +61,6 @@
 <a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
-
-
-
-
 
 <!-- 셋째 줄: Snake -->
 <br/><br/>
